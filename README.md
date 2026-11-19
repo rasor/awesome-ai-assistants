@@ -23,9 +23,9 @@ Agentic (automate)
 |cursor|e|||
 |claude code|c-a-e|claude||
 |codex|c||| // openai
-|github copilot|[c](https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/overview)-[a](https://docs.github.com/en/copilot/how-tos/github-copilot-app)-e|copilot|l-[c](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/cloud-agent)|
+|[github copilot](/assistants/github-copilot.md)|[c](https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/overview)-[a](https://docs.github.com/en/copilot/how-tos/github-copilot-app)-e|copilot|l-[c](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/cloud-agent)|
 |gemini|e||c:jules| // google
-|[open code](https://opencode.ai/)|[c](https://opencode.ai/docs/cli)-[w](https://opencode.ai/docs/cli/web/)|opencode||
+|[open code](/assistants/opencode.md)|[c](https://opencode.ai/docs/cli)-[w](https://opencode.ai/docs/cli/web/)|opencode||
 |windsurf|e|||
 ||||c:devin|
 
